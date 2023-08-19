@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingLarge">24dp</dimen>
+    <dimen name="normalText">16sp</dimen>
+    <dimen name="gaintText">36sp</dimen>
+    <dimen name="textbutton">25sp</dimen>
+</resources>
